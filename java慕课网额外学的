@@ -1,0 +1,10 @@
+前端基础/UI库：①LayUI框架,②弹窗插件SweetAlert
+Java Web：FreeMarker模板引擎，Kaptcha，ECharts
+数据库：连接池Durid、C3P0
+MyBatis：数据批量添加与删除
+Spring：JDK/CGLib动态代理，面向切面编程 AOP AspectJ，编程式事务与声明式事务
+Spring MVC:①浏览器的同源策略；②CrossOrigin注解；解决跨域访问；③RABC权限模型
+Sping Cloud：①服务注册与发现Eureka；②服务间调用Feign；③负载均衡Ribbon；④熔断器Hystrix；⑤网关Zuul；⑥公共模块Common
+分布式：Dubbo，Zookeeper，RabbitMQ
+
+CrossOrigin解决跨域问题：https://www.cnblogs.com/mmzs/p/9167743.html
